@@ -1,11 +1,11 @@
 <?php
 $servername = "localhost";
-$username = "peepmgxz_am";
-$password = "peepmgxz_am";
-$dbname = "peepmgxz_am";
+$username = "username";
+$password = "password";
+$dbname = "database";
  
-$old_url = "https://lankshubltd.com/market/market/market";
-$new_url = "https://lankshubltd.com/market";
+$old_url = "https://url.com";
+$new_url = "https://newurl.com";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
