@@ -3,7 +3,7 @@ $servername = "localhost";
 $username = "peepmgxz_am";
 $password = "peepmgxz_am";
 $dbname = "peepmgxz_am";
-
+ 
 $old_url = "https://lankshubltd.com/market/market/market";
 $new_url = "https://lankshubltd.com/market";
 
